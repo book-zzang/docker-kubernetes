@@ -2,7 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="09405e46-2e2e-440e-817d-c1f3a8d64772" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/3. 도커스웜.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/시작하세요-도커-쿠버네티스.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../시작하세요-도커/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../시작하세요-도커/1. 도커란?.md" beforeDir="false" afterPath="$PROJECT_DIR$/1. 도커란?.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../시작하세요-도커/2. 도커엔진.md" beforeDir="false" afterPath="$PROJECT_DIR$/2. 도커엔진.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../시작하세요-도커/2.4. Dockerfile.md" beforeDir="false" afterPath="$PROJECT_DIR$/2.4. Dockerfile.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../시작하세요-도커/3. 도커스웜.md" beforeDir="false" afterPath="$PROJECT_DIR$/3. 도커스웜.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,19 +43,6 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -58,6 +52,7 @@
       <option name="presentableId" value="Default" />
       <updated>1622486129433</updated>
       <workItem from="1622486130814" duration="730000" />
+      <workItem from="1622487171402" duration="80000" />
     </task>
     <servers />
   </component>
@@ -74,5 +69,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
